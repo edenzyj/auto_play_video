@@ -11,7 +11,7 @@ MQTT_PW = 'iottalk2023'
 device_model = 'Music_to_Video'
 IDF_list = []
 ODF_list = ['MP4_O']
-device_id = '31283301712261326' #if None, device_id = MAC address
+device_id = '31283301712261529' #if None, device_id = MAC address
 device_name = 'player'
 exec_interval = 1  # IDF/ODF interval
 
